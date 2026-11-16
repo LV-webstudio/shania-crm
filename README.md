@@ -1,4 +1,4 @@
-# Shania CRM
+# Shania CRM — CRM inmobiliario con IA propia
 
 **El CRM inmobiliario que trabaja contigo, con su propia IA dentro.**
 Inmuebles, contactos, portales y documentos en un solo sitio, con Shania, una asistente virtual con IA que redacta, ordena y avisa para que tú vendas. Hecho en Granada por Shania Webstudio.
@@ -34,7 +34,7 @@ Este repositorio es solo de presentación. El código es privado y no está disp
 - Personal y registro de consentimientos.
 
 ## La IA que lleva dentro
-Shania no es un chat aparte: trabaja dentro de las fichas, los contactos y los documentos, y siempre propones o revisas tú antes de publicar. Coordina a 8 especialistas:
+Shania no es un chat aparte: trabaja dentro de las fichas, los contactos y los documentos, y siempre propones o revisas tú antes de publicar. Coordina a nueve especialistas:
 
 | Especialista | Qué hace |
 |---|---|
@@ -46,6 +46,7 @@ Shania no es un chat aparte: trabaja dentro de las fichas, los contactos y los d
 | Gestoría | ITP, plusvalía, notaría e IRPF, con informes para comprador y vendedor |
 | Recepcionista | Shania Voz: atención por voz con transcripción y resumen en el CRM. **Próximamente: está en pruebas** |
 | Edición de vídeo | Vídeos verticales del inmueble con guion, textos y música, desde las fotos de la ficha |
+| Seeker | Búsqueda de particulares que venden. **Bajo pedido** |
 
 La IA va incluida en la cuota, con un cupo al mes según el plan.
 
@@ -58,6 +59,6 @@ Módulo Shania Conta: registros encadenados con huella SHA-256, código QR en ca
 - **Correo:** hola@shaniawebstudio.com
 - **Teléfono y WhatsApp:** +34 675 15 87 85
 
-Shania Webstudio · Chauchina (Granada)
+[Shania Webstudio](https://shaniawebstudio.com) · Granada
 
 © 2026 Shania Webstudio. Todos los derechos reservados. Este repositorio no concede ninguna licencia sobre Shania CRM ni sobre sus marcas.
